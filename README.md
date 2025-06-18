@@ -24,4 +24,5 @@ To run the app, you just start the WebSocket server and the React app in two sep
 
 This project is a great starting point if you’re new to WebSockets or want to build your own chat app. From here, you could add things like timestamps, avatars, private chat rooms, or even save the chat history using a database.
 
-
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/ece968f8-3180-4114-8234-0297ef47ccb3)
